@@ -1,0 +1,6 @@
+@SecureBlog.Api_HostAddress = http://localhost:5119
+
+GET {{SecureBlog.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
